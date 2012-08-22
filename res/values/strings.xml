@@ -10,5 +10,9 @@
     <!-- Details dialog "OK" button. Dismisses dialog. -->
     <string name="details_ok">OK</string>
 
-	<string name="app_name">NyARToolkitAndroid</string>
+	<string name="app_name">NyARToolkit Android</string>
+	<string name="rotate">回転</string>
+	<string name="translate">移動</string>
+	<string name="scale">スケール</string>
+	<string name="take_screenshot">画像保存</string>
 </resources>
