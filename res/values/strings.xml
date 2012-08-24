@@ -11,4 +11,5 @@
     <string name="details_ok">OK</string>
 
 	<string name="app_name">NyARToolkitAndroid</string>
+	<string name="btn_sel">select model.</string>
 </resources>
